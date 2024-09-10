@@ -130,3 +130,6 @@ C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\Core.pdb
 C:\Users\Admin\Desktop\newskinet\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\newskinet\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
